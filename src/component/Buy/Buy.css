@@ -11,3 +11,8 @@
     grid-template-columns: 4fr 4fr;
     
 }
+.btn-check{
+    background-color: orange;
+    width: 90%;
+    margin-top: 20px;
+}

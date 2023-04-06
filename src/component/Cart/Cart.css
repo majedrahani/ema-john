@@ -7,3 +7,10 @@
     position: sticky;
     top: 0;
 }
+.btn-clear{
+    background-color: tomato;
+    width: 90%;
+}
+.icon{
+    margin-left: 10px;
+}
